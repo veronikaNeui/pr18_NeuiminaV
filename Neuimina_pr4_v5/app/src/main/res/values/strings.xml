@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Neuimina_pr4_v5</string>
+    <string name="autorization">Авторизация</string>
+    <string name="vvod">Введите ваше имя</string>
+    <string name="vhod">Войти</string>
+    <string name="hello">Привет!</string>
+    <string name="nameoftheexpense">Название расхода</string>
+    <string name="sum">Сумма</string>
+    <string name="category">Категория</string>
+    <string name="save">Сохранить расход</string>
+    <string name="viewhistory">Посмотреть историю</string>
+    <string name="history">История расходов:</string>
+    <string name="back">Назад</string>
+</resources>
